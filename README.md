@@ -211,6 +211,10 @@ Some improvements I'd like to work on:
 
 ---
 
+## Dashboard Preview
+
+![India Logistics Analytics Dashboard](screenshots/logistics-dashboard.png)
+
 **Developed by Virat**
 
 [GitHub Repository](https://github.com/Virat213/india-logistics-data-engineering-pipeline)
