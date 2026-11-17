@@ -215,6 +215,16 @@ Some improvements I'd like to work on:
 
 ![India Logistics Analytics Dashboard](screenshots/logistics-dashboard.png)
 
+
+## Airflow Pipeline Execution
+
+The batch ETL workflow is orchestrated using Apache Airflow.
+The DAG contains nine dependent tasks, covering raw data
+validation, ingestion, transformation, data quality checks,
+Gold table generation and Hive analytical queries.
+
+![Airflow DAG Execution](screenshots/airflow-dag-success.png)
+
 **Developed by Virat**
 
 [GitHub Repository](https://github.com/Virat213/india-logistics-data-engineering-pipeline)
