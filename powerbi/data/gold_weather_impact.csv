@@ -1,0 +1,7 @@
+weather_condition,total_shipments,delayed_shipments,delay_rate_pct,avg_speed_kmh,avg_duration_hours,avg_rating,failed_shipments
+stormy,4198,1740,41.45,16.1,8.81,3.35,374
+rainy,4171,1558,37.35,18.59,7.8,3.47,308
+foggy,4219,1279,30.32,22.26,6.49,3.6,250
+clear,4124,719,17.43,31.35,4.78,3.84,131
+hot,4130,707,17.12,31.56,4.78,3.86,134
+cold,4158,666,16.02,31.53,4.77,3.88,131

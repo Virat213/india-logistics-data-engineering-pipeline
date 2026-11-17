@@ -1,0 +1,7 @@
+vehicle_type,total_deliveries,avg_cost_per_km,avg_distance_km,avg_speed_kmh,on_time_pct,avg_rating,is_ev
+scooter,4174,6.98,150.16,24.9,73.86,3.68,False
+bike,4160,7.01,151.42,25.26,72.96,3.65,False
+van,4187,7.05,148.77,24.96,73.23,3.66,False
+truck,4145,7.05,150.27,25.41,72.96,3.67,False
+ev van,4116,7.07,150.68,25.32,73.37,3.68,True
+ev bike,4218,7.09,151.04,25.3,73.57,3.67,True

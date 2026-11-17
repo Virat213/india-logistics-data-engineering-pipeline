@@ -1,0 +1,10 @@
+delivery_partner,partner_id,partner_display_name,headquarters_hub,partner_tier
+dhl,DPT_001,DHL Express India,"Mumbai, Maharashtra",Global Express
+shadowfax,DPT_002,Shadowfax,"Bengaluru, Karnataka",National 3PL Carrier
+xpressbees,DPT_003,Xpressbees,"Pune, Maharashtra",National 3PL Carrier
+delhivery,DPT_004,Delhivery,"Gurugram, Haryana",National 3PL Carrier
+ecom express,DPT_005,Ecom Express,"Gurugram, Haryana",National 3PL Carrier
+fedex,DPT_006,FedEx India,"Mumbai, Maharashtra",Global Express
+amazon logistics,DPT_007,Amazon Transportation,"Bengaluru, Karnataka",Enterprise E-Commerce
+blue dart,DPT_008,Blue Dart Express,"Mumbai, Maharashtra",National 3PL Carrier
+ekart,DPT_009,Ekart Logistics,"Bengaluru, Karnataka",Enterprise E-Commerce

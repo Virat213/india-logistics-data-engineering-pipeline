@@ -1,0 +1,8 @@
+# Core Data Engineering Dependencies
+pyspark==3.5.9
+pyarrow==25.0.1
+pandas==2.3.3
+kafka-python==3.0.13
+
+# Testing & Quality Assurance
+pytest==8.3.4

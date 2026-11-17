@@ -1,0 +1,10 @@
+delivery_partner,total_shipments,on_time_shipments,delayed_shipments,failed_shipments,on_time_delivery_rate_pct,failure_rate_pct,avg_delivery_duration_hours,avg_delay_variance_hours,avg_customer_rating,total_logistics_cost_inr,avg_cost_per_km,avg_delivery_speed_kmh,carrier_efficiency_score
+delhivery,2786,2095,691,139,75.2,4.99,6.16,-7.24,3.69,2362833.93,7.02,24.98,39.53
+fedex,2818,2109,709,134,74.84,4.76,6.14,-6.94,3.7,2416028.19,7.12,25.29,38.89
+dhl,2802,2064,738,166,73.66,5.92,6.25,-6.95,3.69,2445672.81,7.0,25.57,38.83
+ecom express,2722,1997,725,120,73.37,4.41,6.25,-6.84,3.67,2364797.89,7.04,25.02,38.25
+blue dart,2798,2044,754,162,73.05,5.79,6.3,-6.71,3.68,2414734.73,7.04,25.04,38.19
+amazon logistics,2711,1973,738,153,72.78,5.64,6.28,-6.84,3.64,2353555.01,7.13,25.14,37.16
+shadowfax,2736,1989,747,133,72.7,4.86,6.27,-6.78,3.66,2375778.67,7.02,25.23,37.9
+ekart,2801,2033,768,154,72.58,5.5,6.27,-6.72,3.66,2436776.78,7.05,25.28,37.68
+xpressbees,2826,2027,799,167,71.73,5.91,6.32,-6.72,3.61,2453436.46,6.95,25.16,37.26

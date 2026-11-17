@@ -1,0 +1,6 @@
+region,total_shipments,on_time_shipments,delayed_shipments,failed_shipments,on_time_rate_pct,avg_distance_km,avg_delivery_duration_hours,total_regional_cost_inr,avg_cost_per_km
+west,5095,3722,1373,287,73.05,152.25,6.3,4454106.23,6.96
+central,5060,3681,1379,286,72.75,151.04,6.28,4401952.01,7.06
+south,4977,3644,1333,274,73.22,149.17,6.2,4271740.8,7.03
+north,4949,3634,1315,236,73.43,149.56,6.25,4258313.72,7.12
+east,4919,3650,1269,245,74.2,149.86,6.21,4237501.72,7.05

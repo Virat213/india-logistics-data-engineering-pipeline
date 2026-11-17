@@ -1,0 +1,7 @@
+vehicle_type,vehicle_id,is_electric,vehicle_category
+van,VEH_001,False,Light Commercial Vehicle
+ev bike,VEH_002,True,Two-Wheeler
+ev van,VEH_003,True,Light Commercial Vehicle
+truck,VEH_004,False,Heavy Freight Truck
+scooter,VEH_005,False,Two-Wheeler
+bike,VEH_006,False,Two-Wheeler

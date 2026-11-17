@@ -1,0 +1,10 @@
+package_type,package_type_id,requires_temperature_or_fragile_care
+documents,PKG_001,False
+groceries,PKG_002,False
+pharmacy,PKG_003,True
+fragile items,PKG_004,True
+automobile parts,PKG_005,False
+furniture,PKG_006,False
+electronics,PKG_007,True
+clothing,PKG_008,False
+cosmetics,PKG_009,False

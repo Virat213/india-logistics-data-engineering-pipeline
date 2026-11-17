@@ -1,0 +1,6 @@
+region,region_id,region_name,primary_hub,zone_geography
+central,RGN_001,Central India,Bhopal Hub,Central Transit Plateau
+west,RGN_002,Western India,Mumbai Hub,Coastal & Industrial Corridor
+south,RGN_003,Southern India,Bengaluru Hub,Peninsular Tech Corridor
+north,RGN_004,Northern India,Delhi NCR Hub,Gangetic Plains & Highway Corridor
+east,RGN_005,Eastern India,Kolkata Hub,Eastern Gateway & River Basin
