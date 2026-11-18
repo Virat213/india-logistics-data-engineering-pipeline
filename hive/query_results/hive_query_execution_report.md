@@ -1,13 +1,13 @@
 # HiveQL Analytical Query Execution Report
 **Database:** `india_logistics_dw`  
 **Total Queries Executed:** 7  
-**Execution Timestamp:** 2026-11-17 19:07:39
+**Execution Timestamp:** 2026-11-18 15:37:58
 
 ---
 
 ## Query 1: Query 1: Overall Logistics Performance Overview
 
-- **Execution Time:** 2.473 seconds
+- **Execution Time:** 3.056 seconds
 - **Record Count:** 1
 
 ```sql
@@ -35,7 +35,7 @@ FROM fact_shipments
 
 ## Query 2: Query 2: Partner Reliability & SLA Compliance Leaderboard
 
-- **Execution Time:** 1.477 seconds
+- **Execution Time:** 1.48 seconds
 - **Record Count:** 9
 
 ```sql
@@ -75,7 +75,7 @@ Amazon Transportation Bengaluru, Karnataka Enterprise E-Commerce          2711  
 
 ## Query 3: Query 3: Regional Bottleneck Analysis & Delay Concentration
 
-- **Execution Time:** 0.667 seconds
+- **Execution Time:** 0.789 seconds
 - **Record Count:** 5
 
 ```sql
@@ -110,7 +110,7 @@ Northern India Delhi NCR Hub Gangetic Plains & Highway Corridor             4949
 
 ## Query 4: Query 4: Environmental & Weather Impact on Delivery Speed and Failures
 
-- **Execution Time:** 0.328 seconds
+- **Execution Time:** 0.382 seconds
 - **Record Count:** 6
 
 ```sql
@@ -144,7 +144,7 @@ weather_condition  total_shipments  avg_speed_kmh  avg_delivery_time_hours  dela
 
 ## Query 5: Query 5: Vehicle Fleet Electrification & Cost Efficiency (EV vs ICE)
 
-- **Execution Time:** 0.873 seconds
+- **Execution Time:** 0.7 seconds
 - **Record Count:** 6
 
 ```sql
@@ -180,7 +180,7 @@ Light Commercial Vehicle       ev van         True              4116            
 
 ## Query 6: Query 6: Regional Partner Ranking using Window Functions
 
-- **Execution Time:** 0.692 seconds
+- **Execution Time:** 0.724 seconds
 - **Record Count:** 45
 
 ```sql
@@ -237,7 +237,7 @@ Northern India            Xpressbees             587       74.79         7.24   
 
 ## Query 7: Query 7: Package Category Risk Analysis (Fragile & Pharmacy SLA Compliance)
 
-- **Execution Time:** 0.717 seconds
+- **Execution Time:** 1.308 seconds
 - **Record Count:** 9
 
 ```sql
